@@ -3,9 +3,9 @@
 <h1 align="center">Hi👋, I'm Titus Manoj</h1>
 <h3 align="center">AWS Certified Data Engineer | Cloud & Analytics</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Titus-Manoj&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+💻 Data Engineer | AI/ML & Data Enthusiast
+📍 Based in USA | he/him
+🎓 Master’s in Computer Science @ Binghamton University
 
 <p align="center">
 🚀 Building scalable data platforms • 📊 Turning data into insights • ☁️ Cloud-native analytics
