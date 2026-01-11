@@ -1,13 +1,9 @@
 <!-- HERO SECTION -->
 
-<h1 align="center">Hi👋, I'm Titus Manoj</h1>
-<h3 align="center">AWS Certified Data Engineer | Cloud & Analytics</h3>
+<h2 align="left">Hi👋, I'm Titus Manoj</h1>
+<h3 align="left">AWS Certified Data Engineer | Cloud & Analytics</h3>
 
-💻 Data Engineer | AI/ML & Data Enthusiast
-📍 Based in USA | he/him
-🎓 Master’s in Computer Science @ Binghamton University
-
-<p align="center">
+<p align="left">
 🚀 Building scalable data platforms • 📊 Turning data into insights • ☁️ Cloud-native analytics
 </p>
 
