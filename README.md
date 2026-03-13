@@ -47,7 +47,6 @@ Power BI · QuickSight · Tableau · Athena · Pandas
 * Designed infrastructure for **data extraction, ingestion, and processing** of legislative datasets from APIs and structured documents.
 * Built automated pipelines to support **analytics and research workflows** for policy tracking.
 
----
 
 ### 🏢 Data Engineer — Tata Consultancy Services  
 📍 *Dec 2020 – Jul 2023*
@@ -57,7 +56,6 @@ Power BI · QuickSight · Tableau · Athena · Pandas
 * Reduced **data storage costs by 60%** through **star/snowflake schema modeling, partitioning strategies, and cold archival in S3 data lakes**.
 * Migrated complex **legacy datasets (2000+ columns)** to modern platforms using **Python, SQL, and AWS Glue**, improving processing efficiency and pipeline reliability.
 
----
 
 ### 🏢 Data Engineer Intern — Quest Global  
 📍 *Jun 2019 – Jul 2019*
