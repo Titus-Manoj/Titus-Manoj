@@ -65,6 +65,7 @@ Power BI · QuickSight · Tableau · Athena · Pandas
 * Built **SQL-based ETL pipelines** to process **5M+ daily user session records** for performance analytics.
 * Developed **Looker dashboards** enabling engineers to diagnose application performance issues and improve system observability.
 
+---
 
 ## 🚀 Featured Project
 
