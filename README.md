@@ -12,7 +12,6 @@
 ## 🧠 About Me
 
 💻 **Data Engineer with 3+ years of experience** designing and scaling ELT pipelines across distributed systems.
-📈 Built **900M+ row pipelines**, **18 TB data lakes**, and **production-grade analytics** on AWS.
 ☁️ Currently expanding into **GCP (BigQuery, Dataflow, Pub/Sub)** and real-time streaming architectures.
 
 I care deeply about **data reliability, performance, automation, and clean system design**.
@@ -41,28 +40,31 @@ Power BI · QuickSight · Tableau · Athena · Pandas
 
 ## 💼 Work Experience
 
-### 🏢 Data Engineer — Tata Consultancy Services
+### 🏢 Research Assistant — SUNY Binghamton  
+📍 *Jan 2026 – Present*
 
-📍 *May 2021 – July 2023*
-
-* Designed and maintained **PySpark + AWS Glue ETL pipelines** processing **900M rows/day**, achieving **99.9% SLA compliance**.
-* Migrated **18 TB** of RDS data into **partitioned Parquet data lakes on S3**, reducing transformation time by **97%** and cost by **50%**.
-* Modeled **Redshift star schemas with SCD Type 2** for **800K+ accounts**, improving reporting accuracy by **23%**.
-* Automated operational monitoring using **CloudWatch + Lambda**, reducing SLA breaches by **50%**.
-* Implemented **KMS encryption, lifecycle policies, and automated snapshots** with **RPO < 15 min**.
+* Productionized a **pre-trained LLM** using automated data pipelines to generate **monthly legislative policy summaries**, reducing manual analysis by **20+ hours/month**.
+* Designed infrastructure for **data extraction, ingestion, and processing** of legislative datasets from APIs and structured documents.
+* Built automated pipelines to support **analytics and research workflows** for policy tracking.
 
 ---
 
-### 🏢 Data Engineer Intern — Quest Global
+### 🏢 Data Engineer — Tata Consultancy Services  
+📍 *Dec 2020 – Jul 2023*
 
-📍 *June 2020 – April 2021*
-
-* Migrated **700M+ records** from RDS to S3 using **AWS DMS**, improving query performance **4×**.
-* Automated **100+ ingestion pipelines** using Lambda-triggered Glue jobs, reducing failures by **90%**.
-* Enabled **near-real-time analytics** via **15-minute Glue micro-batches**, cutting latency by **90%**.
-* Partnered with analysts to deliver datasets accelerating **funding decisions by 35%**.
+* Engineered **AWS-based data warehouse infrastructure** supporting **200+ enterprise databases** used for analytics and reporting.
+* Developed **PySpark + Databricks ETL pipelines** ingesting **~1TB/month** into **Amazon Redshift** from APIs, vendor warehouses, CSVs, and legacy Access databases.
+* Reduced **data storage costs by 60%** through **star/snowflake schema modeling, partitioning strategies, and cold archival in S3 data lakes**.
+* Migrated complex **legacy datasets (2000+ columns)** to modern platforms using **Python, SQL, and AWS Glue**, improving processing efficiency and pipeline reliability.
 
 ---
+
+### 🏢 Data Engineer Intern — Quest Global  
+📍 *Jun 2019 – Jul 2019*
+
+* Built **SQL-based ETL pipelines** to process **5M+ daily user session records** for performance analytics.
+* Developed **Looker dashboards** enabling engineers to diagnose application performance issues and improve system observability.
+
 
 ## 🚀 Featured Project
 
@@ -79,7 +81,7 @@ Power BI · QuickSight · Tableau · Athena · Pandas
 
 ## 🎓 Education
 
-🎓 **M.S. Computer Science** — SUNY Binghamton *(2025)*
+🎓 **M.S. Computer Science** — SUNY Binghamton *(2026)*
 🎓 **B.Tech Electrical & Electronics Engineering** — CET Trivandrum *(2020)*
 
 ---
